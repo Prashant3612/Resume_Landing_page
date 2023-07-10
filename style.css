@@ -46,6 +46,12 @@ font-size: 1.25rem;
   padding: 0 0 5rem 0;
 }
 
+.proj_img{
+  border-style:solid;
+    border-color: black;
+    border-width: 15px;
+}
+
 #Projects{
   padding: 10rem 0;
 }
